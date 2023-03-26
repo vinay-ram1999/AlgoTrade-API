@@ -1,3 +1,3 @@
-old/*
-credentials/*.py
+old/
+credentials/
 *.pyc
