@@ -7,6 +7,6 @@ class KSAPI_Credentials():
         self.password = "###"
         self.consumer_key = "###"
         self.consumer_secret_key = "###"
-        self.ip_address = "10.0.0.0"
+        self.ip_address = "0.0.0.0"
         self.app_id = "DefaultApplication"
         return

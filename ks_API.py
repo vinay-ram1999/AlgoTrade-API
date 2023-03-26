@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 import datetime as dt
 from ks_api_client import ks_api
-from credentials import KSAPI_Credentials
+from credentials.info import KSAPI_Credentials
 from trading_platform import TradingPlatform
 from ks_api_client.models.tsloplace import Tsloplace
 
