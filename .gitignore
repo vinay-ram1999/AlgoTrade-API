@@ -1,3 +1,5 @@
 old/
 credentials/
 *.pyc
+*.db
+*.pkl

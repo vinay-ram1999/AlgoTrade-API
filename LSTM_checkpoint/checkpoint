@@ -1,2 +1,0 @@
-model_checkpoint_path: "MRF.ckpt"
-all_model_checkpoint_paths: "MRF.ckpt"
