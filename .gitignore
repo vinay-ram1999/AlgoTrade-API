@@ -1,5 +1,5 @@
 old/
-credentials/*.py
+python/credentials/*.py
 *.pyc
 *.db
 *.pkl
